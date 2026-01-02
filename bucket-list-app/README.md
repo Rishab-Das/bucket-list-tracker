@@ -1,5 +1,8 @@
 # Bucket List Tracker
 
+Live Demo:
+https://main.dafd5vprmdxqc.amplifyapp.com
+
 A simple bucket list web app built using React and AWS Amplify.
 
 Features:
